@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quizapp</string>
+    <string name="_1_questions_list">1. You can create an emulator to simulate the configuration of a particular type of Android device using a tool like Android SDK Manager</string>
+    <string name="_2_questions_list">2. You can show or hide a view in your app by setting its visibility. Which of the following are valid visibility values?</string>
+    <string name="true_answer">True</string>
+    <string name="false_answer">False</string>
+    <string name="i_am_not_sure">It depends</string>
+    <string name="btn_reset">reset</string>
+
+    <string name="q2_1">VISIBLE</string>
+    <string name="q2_2">GONE</string>
+    <string name="q2_3">VCLEARISIBLE</string>
+    <string name="q2_4">INVISIBLE</string>
+    <string name="q2_5">NONE</string>
+
+</resources>
